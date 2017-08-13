@@ -1,0 +1,11 @@
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\bin\Debug\SimpleTTS.exe.config
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\bin\Debug\SimpleTTS.exe
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\bin\Debug\SimpleTTS.pdb
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\bin\Debug\SimpleTTS.xml
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\obj\Debug\SimpleTTS.vbprojResolveAssemblyReference.cache
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\obj\Debug\SimpleTTS.Form1.resources
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\obj\Debug\SimpleTTS.Resources.resources
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\obj\Debug\SimpleTTS.vbproj.GenerateResource.Cache
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\obj\Debug\SimpleTTS.exe
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\obj\Debug\SimpleTTS.xml
+C:\Users\zaman\Documents\GitHub\Simple Text to Speech C++\Simple-Text-to-Speech-Cplusplus\SimpleTTS\SimpleTTS\obj\Debug\SimpleTTS.pdb
